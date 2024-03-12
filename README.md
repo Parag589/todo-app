@@ -6,8 +6,10 @@ This project demonstrates a Vue.js application with a JSON Server backend.
 
  **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/Parag589/todo-app.git
+
+```sh
+git clone https://github.com/Parag589/todo-app.git
+```
 
 ## Follow Following
 
